@@ -1,0 +1,16 @@
+Experiment 1: Python Installation and Basic Python Statements
+1.	Install Python and write the steps of installation and understand difference between scripting and interactive modes in IDLE.
+2.	Create a variable to store your age and print its type using type().
+3.	Declare a string variable called x and assign it the value “Hello”.
+a.	Print out the value of x
+4.	Take different data types and print values using print function.
+5.	Declare these variables (x, y and z) as integers. Assign a value of 9 to x, Assign a value of 7 to y, perform addition, multiplication, division and subtraction on these two variables and Print out the result.
+6.	Write a program to compute the length of the hypotenuse (c) of a right triangle using Pythagoras theorem. 
+7.	Write a program to find simple interest.
+8.	Write a program to find area of triangle when length of sides are given.
+9.	Write a program to convert given seconds into hours, minutes and remaining seconds.
+10.	Write a program to swap two numbers without taking additional variable.
+11.	Write a program to find sum of first n natural numbers.
+12.	Write a program to print truth table for bitwise operators (&, | and ^ operators)
+13.	Write a program to find left shift and right shift values of a given number.
+14.	Using membership operator find whether a given number is in sequence (10,20,56,78,89)
